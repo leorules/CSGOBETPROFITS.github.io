@@ -8,7 +8,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
-jumbotron {
+.jumbotron {
     background-image: url('http://orig12.deviantart.net/a10e/f/2015/255/b/7/cs_go_fade_by_malejkandy-d99aswi.jpg');
     height: 900px;
     background-repeat: no-repeat;
