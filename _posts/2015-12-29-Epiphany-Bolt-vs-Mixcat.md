@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Epiphany Bolt vs Mixcat
+title: "Epiphany Bolt vs Mixcat"
 date: 2015-12-29
 ---
 
