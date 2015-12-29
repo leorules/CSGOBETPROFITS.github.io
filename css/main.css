@@ -17,13 +17,6 @@ h1 {
     margin-right: 20px;
 }
     
-    .jumbotron {
-      background-image: url('http://www.gamer.hr/wp-content/uploads/2015/09/yg8NmYu.jpg');
-      height: 900px;
-      background-repeat: no-repeat;
-      background-size: cover;
-    }
-    
     .jumbotron .container {
       position: relative;
       top: 330px;
