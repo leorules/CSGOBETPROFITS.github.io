@@ -12,4 +12,3 @@ Mixcat has also en extremely well, winning all 5 of their past five games easily
 The odds were 81-19 for Mixcat vs k1ck last time i checked and if you rather not take the chance, it would be a wise game to skip.
 However a low bet on k1ck is also a wise decision as they do have the skills to beat MIXCAT. So my advice to is to go low on underdog
 
-:smile:
