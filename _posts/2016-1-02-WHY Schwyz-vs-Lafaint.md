@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WHY Schwyz vs Lafaint"
-date: 2015-1-2
+date: 2016-1-2
 ---
 
 Hey guys today's match is a game between no-name Korean teams and I'm not even sure if its on CSGOLOUNGE or Fanobet but it would be a fun game to predict.
