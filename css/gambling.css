@@ -27,14 +27,14 @@ nav a {
     }
     
     .jumbotron h1 {
-      color: #fff;
+      color: #000000;
       font-size: 40px;
       font-family: 'Shift', sans-serif;
     }
     
     .jumbotron p {
-      color: #fff;
-      font-size: 15px;
+      color: #000000;
+      font-size: 25px;
     }
     
     .nav li {
