@@ -12,3 +12,4 @@ eXplosive: def is out again with LK replacng him yet again. eXplosive is a great
 nEophyte has losing quite a bit in its past matches and to be honest I dont actually know how good they are (sorry).
 On HLTV, the odds are in favour of eXplosive and my best advice is go for a low bet on eXplosive or skip.
 
+Update: Someone has told me that the old nEophyte team was ranked 34th and the new one is pretty bad which i can believe.
