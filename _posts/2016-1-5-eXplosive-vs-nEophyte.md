@@ -10,5 +10,7 @@ After digging around, it seems nEophyte has lost a match quite recently to a tea
 
 eXplosive: def is out again with LK replacng him yet again. eXplosive is a great team, just lacking the ability to close up rounds. 
 nEophyte has losing quite a bit in its past matches and to be honest I dont actually know how good they are (sorry).
-On HLTV, the odds are in favour of eXplosive and my best advice is go for a low bet on eXplosive or skip.
+On HLTV, the odds are in favour of eXplosive.
+
+BUT IT IS A BEST OF 1 so anything can happen and my best advice is go for a low bet on eXplosive or skip.
 
