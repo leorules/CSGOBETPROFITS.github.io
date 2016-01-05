@@ -38,6 +38,10 @@
     }
     
     .nav li {
-      display: inline;
-    
-  
+      display: inline; 
+
+ }   
+  ul.posts li {
+    list-style: none;
+}
+
