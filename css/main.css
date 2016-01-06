@@ -18,12 +18,7 @@ footer ul li {
     margin-right: 5px;
 }
 
-footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 5px;
-    list-style: none;
-    font-weight: normal;
-}
+
 
  .jumbotron {
       background-image: url('https://i.imgur.com/NMLRv6b.png');
