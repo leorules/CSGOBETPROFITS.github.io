@@ -34,9 +34,9 @@
     }
     
     .jumbotron p {
-      color: #fff;
-      font-size: 20px;
-      font-family: 'Shift', sans-serif;
+    font-size: 20px;
+      color: #333333;
+font-family: Tahoma, Geneva, sans-serif;
     }
     
     .nav li {
