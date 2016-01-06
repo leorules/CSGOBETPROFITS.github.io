@@ -8,7 +8,10 @@
       padding-right: 10px;
     }
     
- 
+   nav ul li {
+    display: inline;
+   
+}
  .jumbotron {
       background-image: url('https://i.imgur.com/NMLRv6b.png');
       height: 900px;
