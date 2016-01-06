@@ -1,2 +1,2 @@
 # CSGOBETPROFITS.github.io
-Testing and Creating :)
+Creating a CSGO BET ADVICE SITE :)
