@@ -41,7 +41,7 @@
       display: inline; 
 
  }   
-  ul.posts li {
+  .posts li {
     list-style: none;
 }
 
