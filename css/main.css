@@ -41,7 +41,7 @@
       display: inline; 
 
  }   
-  .posts li {
-    list-style: none;
+  ul .posts li {
+    list-style: square;
 }
 
