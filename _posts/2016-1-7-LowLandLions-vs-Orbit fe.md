@@ -9,4 +9,4 @@ Orbit fe are the female equivalent of Orbit except they are lacking in one thing
 LowLandLions on the other hand are also lacking in one thing. Skill. However they have had some close games against Ephihany Bolt and they have actually won a game out of their past 5 matches.
 Last time i checked, the odds were like 15-85 (LowLandLions- Orbit fe). They are probably gonna change. 
 My bet: Low on LOWLANDLIONS.
-Reason: Both teams are bad but I think LowLandLions have more experience and a little more skill than Orbit fe and if the odds are that juicy for LowLandLions, then wy not?
+Reason: Both teams are bad but I think LowLandLions have more experience and a little more skill than Orbit fe and if the odds are that juicy for LowLandLions, then why not?
