@@ -11,4 +11,5 @@ SK: A team that is superior in LDLC White in players (Pimp and Magiskb0y are rea
 This game is a BO2 and I just can't see LDLC White taking 2 maps off SK so I guess this game is quite safe to bet on.
 
 Bet: Medium on SK
+
 Risk: Low
